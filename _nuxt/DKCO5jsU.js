@@ -1,0 +1,1 @@
+import{_ as o,c as s,a,P as n,o as r}from"./CVV8npR7.js";const c={},l={style:{"background-color":"antiquewhite",padding:"10px",position:"sticky"}};function d(t,e){return r(),s("div",l,[e[0]||(e[0]=a("p",null,"這是預設 layout",-1)),n(t.$slots,"default")])}const u=o(c,[["render",d]]);export{u as default};
