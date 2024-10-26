@@ -1,1 +1,0 @@
-import{_ as n,c as o,a as r,o as t}from"./CVV8npR7.js";const a={};function c(s,e){return t(),o("div",null,e[0]||(e[0]=[r("h2",null,"這是 category 底下的 index",-1)]))}const d=n(a,[["render",c]]);export{d as default};

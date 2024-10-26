@@ -1,1 +1,0 @@
-import{m as t,c as s,a as o,t as r,n,o as c}from"./CVV8npR7.js";const i={__name:"[id]",setup(u){const e=t(),{id:a}=e.params;return(l,p)=>(c(),s("div",null,[o("h1",null,"這是 category 頁傳入的參數："+r(n(a)),1)]))}};export{i as default};

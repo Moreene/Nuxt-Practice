@@ -1,0 +1,1 @@
+import{_ as t,c as e,a as s,o as a}from"./Baip-8pS.js";const n={},r={style:{"background-color":"lightblue",padding:"10px",position:"absolute",right:"0",left:"0",bottom:"0"}};function c(l,o){return a(),e("div",r,o[0]||(o[0]=[s("p",null,"這是客製化 layout",-1)]))}const u=t(n,[["render",c]]);export{u as default};
